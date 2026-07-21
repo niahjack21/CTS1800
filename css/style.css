@@ -1,1 +1,10 @@
-
+nav {
+  background-color: #FF0000;
+  padding: 20px;
+  text-align: center;
+}
+nav a {
+  color: #FFF;
+  text-decoration: none;
+  margin: 15px;
+}
