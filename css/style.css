@@ -1,6 +1,9 @@
 </> CSS
+body{
+  background-color: white;
+}
 nav {
-  background-color: black;
+  background-color: red;
   padding: 20px;
   text-align: center;
 }
@@ -8,4 +11,5 @@ nav a {
   color: white;
   text-decoration: none;
   margin: 15px;
+  font-size: 20px;
 }
