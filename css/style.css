@@ -1,7 +1,9 @@
 body{
   background-color: #000000;
   color: #ffffff;
-  text-size: 27px;
+}
+.logo{
+  font-size: 27px;
 }
 nav{
   background-color: #FF0000;
