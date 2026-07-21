@@ -1,11 +1,11 @@
 </>CSS
 nav {
-  background-color: #FF0000;
+  background-color: red;
   padding: 20px;
   text-align: center;
 }
 nav a {
-  color: #FFF;
+  color: white;
   text-decoration: none;
   margin: 15px;
 }
