@@ -1,3 +1,14 @@
 body {
   background-color: #FF0000;
 }
+nav{
+  background-color: #FF0000;
+  padding: 20px;
+  text-align: center;
+}
+nav a {
+  color: black;
+  text-decoration: none;
+  margin: 15px;
+  font-size: 18px;
+}
