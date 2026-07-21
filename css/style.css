@@ -1,10 +1,14 @@
+body{
+  background-color: #000000;
+  color: #ffffff;
+}
 nav{
   background-color: #FF0000;
   padding: 20px;
   text-align: center;
 }
 nav a {
-  color: black;
+  color: #000000;
   text-decoration: none;
   margin: 15px;
   font-size: 18px;
