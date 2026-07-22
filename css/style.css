@@ -22,23 +22,21 @@ header {
   align-items: center;
 }
 hero {
-  background-color: gray;
   width: 100%;
-  height: 60vh;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
 }
-tagline {
-  color: #FF0000
+hero tagline {
+  width: 100%;
+  text-align: center;
+  color: #FF0000;
   font-size: 32px;
-  font-weight: 900;
-  letter-spaceing: 6px;
+  font-weight: bold;
+  letter-spacing: 6px;
   text-transform: uppercase;
-  font-family: Impact, Haettenschweiler, sans-serif;
-  text-shadow: 0 0 10px red;
+  margin: o;
 }
 featured-image img {
   width: 100%;
