@@ -17,5 +17,9 @@ nav a {
   font-size: 18px;
 }
 hero {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align: center;
   text-align: center;
 }
