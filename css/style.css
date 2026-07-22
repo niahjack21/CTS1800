@@ -23,18 +23,18 @@ header {
   align-items: center;
 }
 hero {
-    background: gray !important;
-    width: 100% !important;
-    height: 300px !important;
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
+  clear: both;
+    background: gray;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 tagline {
-    color: red !important;
-    font-size: 50px !important;
-    text-align: center !important;
+    font-size: 50px;
+    text-align: center;
 }
 featured-image img {
   width: 100%;
