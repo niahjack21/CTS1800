@@ -2,7 +2,7 @@ body{
   background-color: #000000;
   color: #ffffff;
 }
-.logo{
+logo{
   font-size: 27px;
 }
 nav{
@@ -15,4 +15,7 @@ nav a {
   text-decoration: none;
   margin: 15px;
   font-size: 18px;
+}
+hero{
+  text-align: center;
 }
