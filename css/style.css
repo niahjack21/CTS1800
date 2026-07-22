@@ -2,7 +2,7 @@ body {
   background-color: #000000;
   color: #ffffff;
 }
-.logo {
+logo {
   font-size: 27px;
 }
 nav {
@@ -21,10 +21,13 @@ header {
   justify-content: space-between;
   align-items: center;
 }
-.hero {
+hero {
   display: flex;
   flex-direction: colum;
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+hero img {
+  margin-top: 30px;
 }
