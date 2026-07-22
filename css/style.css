@@ -16,6 +16,11 @@ nav a {
   margin: 15px;
   font-size: 18px;
 }
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 hero {
   display: flex;
   flex-direction: colum;
