@@ -23,6 +23,7 @@ header {
 }
 hero {
   height: 80vh;
+  display: flex;
   flex-direction: colum;
   justify-content: center;
   align-items: center;
