@@ -46,3 +46,6 @@ featured-image img {
   object-fit: cover;
   display: block;
 }
+body {
+  margin: 0;
+}
